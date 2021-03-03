@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class FilterString extends Component {
     render(){
@@ -7,4 +7,4 @@ class FilterString extends Component {
         )
     }
 }
-export default FilterString;
+export default FilterString

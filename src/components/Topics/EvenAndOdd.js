@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class EvenAndOdd extends Component {
     render () {
@@ -8,4 +8,4 @@ class EvenAndOdd extends Component {
     }
 }
 
-export default EvenAndOdd;
+export default EvenAndOdd

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import TopicBrowser from './components/TopicBrowser/TopicBrowser'
 
 
@@ -11,4 +11,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App

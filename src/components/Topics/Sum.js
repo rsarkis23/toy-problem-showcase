@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Sum extends Component{
     render(){
@@ -7,4 +7,4 @@ class Sum extends Component{
         )
     }
 }
-export default Sum;
+export default Sum

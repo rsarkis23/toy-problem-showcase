@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Palindrome extends Component {
     render() {
@@ -7,4 +7,4 @@ class Palindrome extends Component {
         )
     }
 }
-export default Palindrome;
+export default Palindrome

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class FilterObject extends Component {
     render () {
@@ -7,4 +7,4 @@ class FilterObject extends Component {
         )
     }
 }
-export default FilterObject;
+export default FilterObject
